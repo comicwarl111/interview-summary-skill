@@ -1,0 +1,4 @@
+interface:
+  display_name: "访谈小结结构化纪要"
+  short_description: "将中文访谈材料生成 Excel 研究小结"
+  default_prompt: "使用 $interview-summary-structured 将中文访谈材料整理成可横向比较的用户研究小结矩阵，并生成 Excel 文件。"
